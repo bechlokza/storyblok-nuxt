@@ -52,3 +52,7 @@ nuxt dev --https --ssl-cert localhost.pem --ssl-key localhost-key.pem
 Run your project using npm run dev. Your project will now be served on https://localhost:3000.
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+
+This project is a training project based on:
+
+https://www.storyblok.com/tc/nuxtjs
